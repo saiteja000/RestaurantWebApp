@@ -10,7 +10,7 @@ vellapu09           shanmukh vellapu                    100           
 
 
 Project Link to github
-https://github.com/saiteja000/RestaurantApp
+https://github.com/saiteja000/RestaurantWebApp
 
 Project Youtube Video Link
 https://youtu.be/OmWAqAwrO6I
